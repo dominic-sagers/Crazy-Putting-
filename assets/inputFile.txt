@@ -1,0 +1,14 @@
+x0 = 0.0
+y0 = 0.0
+xt = 5.0
+yt = 0.0
+r = 0.1
+muk = 0.1
+mus = 0.2
+heightProfile = 0
+playerOrBot = Player
+playerType = Brute-Force
+algorithmType = Runge4
+physicsType = Advanced
+errorType = None
+amountOfTrees = 20

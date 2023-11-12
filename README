@@ -1,0 +1,35 @@
+Crazy Putting by Group 14: Project Manhattan
+
+Instructions for running the Crazy Putting Game:
+    1. Navigate to the main.DesktopLauncher.java starting from the Project file
+        - desktop\src\main\DesktopLauncher.java
+    2. Run the DesktopLauncher class file.
+    3. Press the "Play" button to start the game or press "Settings" to change the configurations
+
+Controls:
+    Camera (Relative to QWERTY button mappings):
+        W       - Move camera forward
+        A       - Move camera left
+        S       - Move camera back
+        D       - Move camera right
+       (All directions are relative to camera perspective)
+
+    Initial velocity and direction (Player mode only):
+        UP      - Increase initial velocity
+        DOWN    - Decrease initial velocity
+        LEFT    - Rotate pointer counter-clockwise
+        RIGHT   - Rotate pointer clockwise
+
+    General:
+        ENTER   - (Re)Start simulation
+
+Remark: Please note that on macOS your application needs to be started with the -XstartOnFirstThread JVM argument, in order for LibGDX to work.
+
+Made By:
+Dominic Sagers,
+Eden Rochman Sharabi,
+Filip Polakowski-Karol,
+Kārlis Pūķis,
+Sascha Zwietink,
+Semih Kan,
+Sjoerd Boonen
